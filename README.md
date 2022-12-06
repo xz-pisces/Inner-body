@@ -2,4 +2,4 @@
 This repository contains a tensorflow implementation of "Learning to Infer Inner-Body under Clothing from Monocular Video".
 
 
-Coming Soon...
+We will publish the data and code in December.
