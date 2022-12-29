@@ -4,6 +4,10 @@ This repository contains a tensorflow implementation of "Learning to Infer Inner
 [Project Page](http://cic.tju.edu.cn/faculty/likun/projects/Inner-Body/index.html)
 
 
+We will publish the data and code in December.
+
+
+
 # Requirement
 
 # Data
@@ -13,5 +17,3 @@ This repository contains a tensorflow implementation of "Learning to Infer Inner
 # Citation
 
 # Acknowledgments
-
-We will publish the data and code in December.
