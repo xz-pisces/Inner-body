@@ -4,19 +4,17 @@ This repository contains a tensorflow implementation of "Learning to Infer Inner
 [Project Page](http://cic.tju.edu.cn/faculty/likun/projects/Inner-Body/index.html)
 
 
-We will publish the data and code in December.
-
-
 
 <!-- # Requirement -->
 
 # Dataset
 <!-- ## You can download a dataset from xx . -->
-## 1.Synthetic Dataset
+## 1.Synthetic Dataset.
 
-## 2.Inner-Body Under Clothing Dataset
+## 2.Inner-Body Under Clothing Dataset.
 
-<!-- # Test -->
+# Inference
+coming soon
 
 # Citation
 Please cite the following paper if it helps your research:
@@ -28,7 +26,6 @@ Please cite the following paper if it helps your research:
     }
 
 # License
-
         Software Copyright License for non-commercial scientific research purposes
         Please read carefully the following terms and conditions and any accompanying documentation before you download and/or use, data and software, (the "Model & Software"), including 3D meshes, blend weights, blend shapes, textures, software, scripts, and animations. By downloading and/or using the Model & Software (including downloading, cloning, installing, and any other use of this github repository), you acknowledge that you have read these terms and conditions, understand them, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Model & Software. Any infringement of the terms of this agreement will automatically terminate your rights under this License
 
