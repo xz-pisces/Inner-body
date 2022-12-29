@@ -12,4 +12,6 @@ This repository contains a tensorflow implementation of "Learning to Infer Inner
 
 # Citation
 
+# Acknowledgments
+
 We will publish the data and code in December.
