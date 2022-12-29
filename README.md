@@ -8,11 +8,12 @@ We will publish the data and code in December.
 
 
 
-# Requirement
+<!-- # Requirement -->
 
-# Data
+# Dataset
+<!-- ## You can download a dataset from xx . -->
 
-# Test
+<!-- # Test -->
 
 # Citation
 
@@ -22,7 +23,5 @@ We will publish the data and code in December.
       booktitle = {IEEE Transactions on Visualization and Computer Graphics},
       year={2022},
     }
-
-# Acknowledgments
 
 # License
