@@ -19,7 +19,7 @@ We will publish the data and code in December.
 <!-- # Test -->
 
 # Citation
-
+Please cite the following paper if it helps your research:
     @article{li2022tvcg,
       author = {Xiongzheng Li and Jing Huang and Jinsong Zhang and Xiaokun Sun and Haibiao Xuan and Yu-Kun Lai and Yingdi Xie and Jingyu Yang and Kun Li},
       title = {Learning to Infer Inner-Body under Clothing from Monocular Video},
