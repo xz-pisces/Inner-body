@@ -12,6 +12,9 @@ We will publish the data and code in December.
 
 # Dataset
 <!-- ## You can download a dataset from xx . -->
+## 1.Synthetic Dataset
+
+## 2.Inner-Body Under Clothing Dataset
 
 <!-- # Test -->
 
