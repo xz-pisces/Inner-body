@@ -8,16 +8,20 @@ This repository contains a tensorflow implementation of "Learning to Infer Inner
 <!-- # Requirement -->
 
 # Dataset
-<!-- ## You can download a dataset from xx . -->
-## 1.Synthetic Dataset.
 
-## 2.Inner-Body Under Clothing Dataset.
+The dataset (current version 1.0) can be downloaded from Baidu Netdisk or IEEE-Dataport.
+.
+
+### 1.Synthetic Dataset.
+
+### 2.Inner-Body Under Clothing Dataset.
 
 # Inference
-coming soon
+Coming soon...
 
 # Citation
 Please cite the following paper if it helps your research:
+
     @article{li2022tvcg,
       author = {Xiongzheng Li and Jing Huang and Jinsong Zhang and Xiaokun Sun and Haibiao Xuan and Yu-Kun Lai and Yingdi Xie and Jingyu Yang and Kun Li},
       title = {Learning to Infer Inner-Body under Clothing from Monocular Video},
