@@ -9,8 +9,7 @@ This repository contains a tensorflow implementation of "Learning to Infer Inner
 
 # Dataset
 
-The dataset (current version 1.0) can be downloaded from Baidu Netdisk or IEEE-Dataport.
-.
+The dataset (current version 1.0) can be downloaded from Baidu Netdisk or IEEE-Dataport. (In a day or two)
 
 ### 1.Synthetic Dataset.
 
