@@ -9,9 +9,9 @@ This repository contains a tensorflow implementation of "Learning to Infer Inner
 
 # Dataset
 
-The dataset (current version 1.0) can be downloaded from Baidu Netdisk or IEEE-Dataport. (In a day or two)
+The dataset (current version 1.0) can be downloaded from Baidu Netdisk.
 
-### 1.Synthetic Dataset.
+### 1.[Synthetic Dataset].(https://pan.baidu.com/s/1JCgXxI8EKK1IURv14InGFw?pwd=1m2b)
 
 ### 2.Inner-Body Under Clothing Dataset.
 
